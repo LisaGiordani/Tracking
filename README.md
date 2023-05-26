@@ -6,6 +6,7 @@ Dans ce projet, nous avons étudié deux méthodes utilisées pour le suivi d’
 - Mean Shift
 - Transformée de Hough
 
+La démarche et les conclusions sont détaillées dans le fichier `Rapport_Tracking.pdf`.
 
 ## Mean Shift
 
